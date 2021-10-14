@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, University of Geneva, 2015
+* M.S. in International Economics, Graduate Institute Geneva, 2017
+* Ph.D in Development Economics, Graduate Institute Geneva, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August - December 2021: Consultancy
+  * World Bank - GAFSP Program <https://www.gafspfund.org>
+  * Assistance for the evaluation of the proposals (2021 Call for Proposal)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September - December 2020: Consultancy
+  * Center for Global Development <https://www.cgdev.org>
+  * Produce Background note on Conflict and Education
   
 Skills
 ======
@@ -40,12 +38,6 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
