@@ -18,7 +18,7 @@ Work experience
 ======
 * August - December 2021: Consultancy
   * World Bank - <a href="https://www.gafspfund.org"> GAFSP Fund </a>
-  * Assistance for the evaluation of the proposals (2021 Call for Proposal)
+  * Assistance for the evaluation of proposals for the "_2021 Call for Proposal_".
 
 * September - December 2020: Consultancy
   * <a href="https://www.cgdev.org"> Center for Global Development </a>
