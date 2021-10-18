@@ -18,6 +18,7 @@ Mathematics and Statistics for Economics
 Microeconomics I
 ====
   * Teaching Assistant for Professor <a href="https://www.graduateinstitute.ch/arcand">Jean Louis Arcand</a>.
+  * Credits : 6 ECTS.
   * Master in International Economics - <a href="https://www.graduateinstitute.ch"> Graduate Institute Geneva</a>.
   * Period: 2018-2021.
   * Syllabus <a href="https://www.graduateinstitute.ch/sites/internet/files/2019-04/EI037.pdf">here</a>.
