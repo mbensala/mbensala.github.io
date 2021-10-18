@@ -17,34 +17,18 @@ Education
 Work experience
 ======
 * August - December 2021: Consultancy
-  * World Bank - GAFSP Program <https://www.gafspfund.org>
+  * World Bank - <a href="https://www.gafspfund.org"> GAFSP Fund </a>
   * Assistance for the evaluation of the proposals (2021 Call for Proposal)
 
 * September - December 2020: Consultancy
-  * Center for Global Development <https://www.cgdev.org>
-  * Produce Background note on Conflict and Education
+  * <a href="https://www.cgdev.org"> Center for Global Development </a>
+  * Produce Background note on Conflict and Education in Africa.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * French and Arabic are my mother tongues
+  * Fluent in English
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Computer Skills
+  * Python, QGIS and Stata
