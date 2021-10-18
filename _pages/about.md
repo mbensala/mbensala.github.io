@@ -11,5 +11,5 @@ PhD Candidate in Development Economics at the <a href="https://www.graduateinsti
 
 I hold a Bachelor degree in Economics from the <a href="https://www.unige.ch/gsem/en/"> University of Geneva </a> and a Master degree in International Economics from the <a href="https://www.graduateinstitute.ch"> Graduate Institute</a>. I worked as a consultant for the <a href="https://www.worldbank.org/en/home"> World Bank</a>, the  <a href="https://www.cgdev.org"> Center for Global Development</a> and the  <i><a href="https://ftdes.net"> Forum Tunisien pour les Droits Economiques et Sociaux </a> </i>.
 
-<b>I am on the Job Market this year </b>
+<b>I am on the Job Market this year. </b>
 
