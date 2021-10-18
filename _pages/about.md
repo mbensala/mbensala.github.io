@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-PhD Candidate in Development Economics at the <a href="https://www.graduateinstitute.ch"> Graduate Institute of International and Development Studies</a> in Geneva, under the supervision of Professor <a href="https://www.graduateinstitute.ch/arcand"> Jean Louis Arcand</a>. 
+PhD Candidate in Development Economics at the <a href="https://www.graduateinstitute.ch"> Graduate Institute of International and Development Studies</a> in Geneva, under the supervision of Professor <a href="https://www.graduateinstitute.ch/arcand">Jean Louis Arcand</a>. 
 
 My research interests span the fields of Economic History and Development Economics. I am particularly intersted in Colonial History, Education, Conflicts and Inequalities. I focus especially on North Africa and Subsaharan Africa.
 
