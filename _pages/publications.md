@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Working Papers
+===
 
-{% include base_path %}
+* The Legacy of Colonial Education: Evidence from Tunisia (with <a href="https://cedricchambru.github.io"> Cédric Chambru </a> and <a href="https://sites.google.com/view/malekefourati/home"> Maleke Fourati </a>)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Work in progress
+===
+
+* Jules Ferry or Jules Cesar: What Drove Tunisian Development ? (with <a href="https://cedricchambru.github.io"> Cédric Chambru)
+* Conflict and Gender Gap in Education (with <a href="https://www.kritikasaxena.com"> Kritika Saxena </a>)
+
