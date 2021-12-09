@@ -22,4 +22,4 @@ Work in progress
 Other contributions
 ===
 
-* Chapter "Inégalités et Santé en Tunisie" in the book "Droit à la Santé au Temps de la Crise COVID 19: Quand les inégalités font souffrir et tuent." <a href="https://ftdes.net/droit-a-la-sante-au-temps-de-la-crise-covid-19-quand-les-inegalites-font-souffrir-et-tuent"/>Here.</a>
+* Chapter "Inégalités et Santé en Tunisie" in the book "Droit à la Santé au Temps de la Crise COVID 19: Quand les inégalités font souffrir et tuent." (<a href="https://ftdes.net/droit-a-la-sante-au-temps-de-la-crise-covid-19-quand-les-inegalites-font-souffrir-et-tuent"/>Here</a>)
