@@ -18,3 +18,8 @@ Work in progress
 * Jules Ferry or Jules Cesar: What Drove Tunisian Development ? (with <a href="https://cedricchambru.github.io"> Cédric Chambru</a>)
 * Conflict and Gender Gap in Education (with <a href="https://www.kritikasaxena.com">Kritika Saxena</a>)
 * The Effects of Marriage on Happiness: Self-Selection and Causality (with Anmol Kaur Grewal and Safeya Zeitoun)
+
+Other contributions
+===
+
+* Chapter "Inégalités et Santé en Tunisie" in the book "Droit à la Santé au Temps de la Crise COVID 19 Quand les inégalités font souffrir et tuent." <a href="https://ftdes.net/droit-a-la-sante-au-temps-de-la-crise-covid-19-quand-les-inegalites-font-souffrir-et-tuent"/>Here.</a>
