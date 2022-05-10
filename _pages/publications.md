@@ -10,7 +10,7 @@ author_profile: true
 Working Papers
 ===
 
-* The Legacy of Colonial Education: Evidence from Tunisia (with <a href="https://cedricchambru.github.io">Cédric Chambru</a> and <a href="https://sites.google.com/view/malekefourati/home">Maleke Fourati</a>)
+* The Legacy of Colonial Education: Evidence from Tunisia (with <a href="https://cedricchambru.github.io">Cédric Chambru</a> and <a href="https://sites.google.com/view/malekefourati/home">Maleke Fourati</a>) [<a href="https://doi.org/10.5167/uzh-218541">Working Paper</a>]
 
 Work in progress
 ===
