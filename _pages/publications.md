@@ -22,4 +22,5 @@ Work in progress
 Other contributions
 ===
 
-* Chapter "_Inégalités et Santé en Tunisie_" in the book "_Droit à la Santé au Temps de la Crise COVID 19: Quand les inégalités font souffrir et tuent._" (<a href="https://ftdes.net/droit-a-la-sante-au-temps-de-la-crise-covid-19-quand-les-inegalites-font-souffrir-et-tuent">Here</a>)
+* Chapter "_Inégalités et Santé en Tunisie_" in the book <a href="https://ftdes.net/droit-a-la-sante-au-temps-de-la-crise-covid-19-quand-les-inegalites-font-souffrir-et-tuent">"_Droit à la Santé au Temps de la Crise COVID 19: Quand les inégalités font souffrir et tuent._"</a> for the <a href="https://ftdes.net"> FTDES </a> (<a href="https://ftdes.net/droit-a-la-sante-au-temps-de-la-crise-covid-19-quand-les-inegalites-font-souffrir-et-tuent">Here</a>)
+* Contribution in the report "Girls’ Education and Women’s Equality: How to Get More out of the World’s Most Promising Investment" for the <a href="https://www.cgdev.org">CGDEV</a> <a href="https://www.cgdev.org/publication/girls-education-and-womens-equality-how-get-more-out-worlds-most-promising-investment">Here</a>
